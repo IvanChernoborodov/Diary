@@ -1,3 +1,6 @@
-# Diary
-diary
-Заметки python/django/linux/ etc
+
+
+## Мои записки
+
+ [Декораторы](https://github.com/IvanChernoborodov/Diary/blob/master/decorators.md)
+
