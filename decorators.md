@@ -118,7 +118,10 @@
     print(list_gen_man)
 
 
+## Примеры
+Flask - route
 
+Django - login_required
 
 
 
