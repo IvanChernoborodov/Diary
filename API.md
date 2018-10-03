@@ -45,3 +45,15 @@ corsheaders
 'django.middleware.common.CommonMiddleware', # new
 ```
 
+
+
+
+Вернуть весь список
+
+    api/
+
+Обратиться к объекту по id 
+
+    api/id 
+
+ например`api/1`
