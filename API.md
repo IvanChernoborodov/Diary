@@ -31,7 +31,7 @@ The easiest way to handle this–and the one [recommended by DRF](http://www.dja
 > The recommended package is
 > [django-cors-headers](https://github.com/ottoyiu/django-cors-headers/)
 > which can be easily added to our existing project.
-Это мидлварь, которая добавляет в хедер запрос.
+Это мидлварь, которая добавляет в хедер токен.
 
     pip install django-cors-headers
 
