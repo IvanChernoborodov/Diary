@@ -48,12 +48,36 @@ corsheaders
 
 
 
-Вернуть весь список
+**Вернуть весь список** 
+Метод: `GET`
 
     api/
 
-Обратиться к объекту по id 
+**Обратиться к объекту по id** 
+Метод: `GET`
 
     api/id 
 
  например`api/1`
+
+**Добавить объект** 
+Метод: `POST`
+url: `api/`
+Пример curl:
+
+    curl -X POST -d "title='NEWTITLE'&description='NEWDESCR'" http://localhost:8000/api/
+
+**Удалить объект**
+Метод: `DELETE`
+url: `api/id`
+Пример curl:
+
+    curl -X DELETE http://127.0.0.1:8000/api/1/
+
+**Обновить объект**
+метод: `PUT`
+url: `/api/id`
+Пример curl:
+
+    curl -X PUT -d "title='XXX'&description='adfasdf'" http://localhost:8000/api/2/
+
