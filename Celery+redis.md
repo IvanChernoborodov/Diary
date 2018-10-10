@@ -69,7 +69,10 @@
  
  
  
-    1.  `pip install celery`
+ 
+ 
+>Выполняем
+1.  `pip install celery`
 2. ``pip install redis`` 
   Добавляем `django-redis` в `INSTALLED_APPS`
   Так же добавим конфигурации для redis сервера.
