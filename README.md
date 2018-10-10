@@ -13,5 +13,5 @@
  
  [Django](Django)
  
- [Processes and threads](Processes%20and%20thread)
+ [Processes and threads](Processes%20and%20threads)
 
