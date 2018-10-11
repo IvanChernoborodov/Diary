@@ -17,4 +17,4 @@
 
 [Tools](Tools)
 
-[Git](Git)
+[Git](git)
